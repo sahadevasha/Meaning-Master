@@ -138,7 +138,7 @@
     
     <div class="contact-info">
         <!-- ध्यान दें: यहाँ अपना असली ईमेल एड्रेस डालें -->
-        <p>Email: support@meaningmaster.com</p>
+        <p>Email: support.primecodestudio@gmail.com</p>
     </div>
 </div>
 
