@@ -1,9 +1,9 @@
-<!DOCTYPE html>
-<html lang="hi">
+
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>गोपनीयता नीति - Meaning Master</title>
+    <title>Privacy Policy - Meaning Master</title>
     <style>
         .privacy-container {
             font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
@@ -85,59 +85,59 @@
 <body>
 
 <div class="privacy-container">
-    <h1>गोपनीयता नीति और सेवा की शर्तें</h1>
-    <div class="last-updated">अंतिम अपडेट: <strong>24 जून 2026</strong></div>
+    <h1>Privacy Policy & Terms of Service</h1>
+    <div class="last-updated">Last Updated: <strong>24 June 2026</strong></div>
 
-    <p><strong>Meaning Master</strong> में आपका स्वागत है। यह गोपनीयता नीति (Privacy Policy) और नियम व शर्तें (Terms & Conditions) स्पष्ट करती हैं कि जब आप हमारे मोबाइल एप्लिकेशन ("ऐप") का उपयोग करते हैं, तो हम आपकी व्यक्तिगत जानकारी कैसे एकत्र, उपयोग और सुरक्षित करते हैं। ऐप को डाउनलोड, इंस्टॉल या उपयोग करके, आप इस नीति में वर्णित प्रथाओं से सहमत होते हैं।</p>
+    <p>Welcome to <strong>Meaning Master</strong>. This Privacy Policy and Terms & Conditions document explains how we collect, use, and protect your personal information when you use our mobile application ("App"). By downloading, installing, or using the App, you agree to the practices described in this policy.</p>
 
-    <h2>1. हम कौन सी जानकारी एकत्र करते हैं</h2>
-    <p>एक व्यक्तिगत और सहज सीखने का अनुभव प्रदान करने के लिए, हम निम्नलिखित प्रकार का डेटा एकत्र करते हैं:</p>
+    <h2>1. Information We Collect</h2>
+    <p>To provide a personalized and seamless learning experience, we collect the following types of data:</p>
     <ul>
-        <li><strong>व्यक्तिगत जानकारी:</strong> जब आप प्रोफ़ाइल बनाते हैं, तो हम आपका पूरा नाम, मोबाइल नंबर, ईमेल पता, जन्म तिथि (DOB), लिंग और शैक्षणिक योग्यता एकत्र करते हैं।</li>
-        <li><strong>डिवाइस जानकारी:</strong> आपके अकाउंट को सुरक्षित रखने और ऐप एक्सेस को प्रबंधित करने के लिए हम आपके डिवाइस की विशिष्ट पहचान (Android ID) एकत्र करते हैं।</li>
-        <li><strong>उपयोग और सीखने का डेटा:</strong> हम स्वचालित रूप से आपकी सीखने की प्रगति को हमारे सुरक्षित सर्वर (Firebase) पर ट्रैक और स्टोर करते हैं। इसमें शामिल हैं:
+        <li><strong>Personal Information:</strong> When you create a profile, we collect your Full Name, Mobile Number, Email Address, Date of Birth (DOB), Gender, and Educational Qualification.</li>
+        <li><strong>Device Information:</strong> We collect your device's unique identifier (Android ID) to secure your account and manage your app access securely.</li>
+        <li><strong>Usage & Learning Data:</strong> We automatically track and store your learning progress on our secure servers (Firebase). This includes:
             <ul>
-                <li>याद किए गए या बाकी बचे शब्दों की संख्या।</li>
-                <li>आपके टेस्ट स्कोर और प्रदर्शन।</li>
-                <li>ऐप पर आपके द्वारा बिताया गया समय, और ऐप को खोलने/बंद करने का लॉग (अंतिम सक्रिय स्थिति)।</li>
-                <li>आपका वर्तमान लर्निंग लेवल और ऐप इंस्टॉल करने की तारीख।</li>
+                <li>Number of words you have remembered or are pending.</li>
+                <li>Your test scores and performance.</li>
+                <li>The time you spend on the App, and a log of your app open/close times (Last Active Status).</li>
+                <li>Your current learning level and installation date.</li>
             </ul>
         </li>
     </ul>
 
-    <h2>2. हम आपकी जानकारी का उपयोग कैसे करते हैं</h2>
-    <p>हम एकत्र किए गए डेटा का उपयोग केवल आपके अनुभव को बेहतर बनाने और हमारी सेवाएं प्रदान करने के लिए करते हैं:</p>
+    <h2>2. How We Use Your Information</h2>
+    <p>We use the collected data strictly to improve your experience and provide our services:</p>
     <ul>
-        <li><strong>प्रगति ट्रैक करने के लिए:</strong> आपकी शब्दावली (Vocabulary) की प्रगति को सेव करने के लिए ताकि यदि आप अपना डिवाइस बदलते हैं तो आपका डेटा नष्ट न हो।</li>
-        <li><strong>ऐप को बेहतर बनाने के लिए:</strong> यह विश्लेषण करने के लिए कि उपयोगकर्ता ऐप पर कितना समय बिताते हैं और कौन से टेस्ट कठिन हैं, जिससे हमें ऐप के कंटेंट को सुधारने में मदद मिलती है।</li>
-        <li><strong>संचार (Communication):</strong> हम आपके ईमेल आईडी या मोबाइल नंबर का उपयोग आपको महत्वपूर्ण अपडेट, अकाउंट नोटिफिकेशन, या सख्ती से <strong>हमारे अपने उत्पादों और सेवाओं</strong> से संबंधित प्रमोशनल संदेश भेजने के लिए कर सकते हैं।</li>
-        <li><strong>हम आपका डेटा नहीं बेचते हैं:</strong> हम किसी भी तृतीय-पक्ष (Third-Party) मार्केटिंग या विज्ञापन कंपनियों के साथ आपकी व्यक्तिगत संपर्क जानकारी (ईमेल/मोबाइल) को बिल्कुल भी बेचते, किराए पर नहीं देते या साझा नहीं करते हैं।</li>
+        <li><strong>To Track Progress:</strong> To save your vocabulary progress so you don't lose your data if you change your device.</li>
+        <li><strong>To Improve the App:</strong> To analyze how much time users spend on the App and which tests are difficult, helping us improve the App's content.</li>
+        <li><strong>Communication:</strong> We may use your Email ID or Mobile Number to send you important updates, account notifications, or promotional messages related strictly to <strong>our own products and services</strong>.</li>
+        <li><strong>We DO NOT Sell Your Data:</strong> We strictly do not sell, rent, or share your personal contact information (Email/Mobile) with any third-party marketing or advertising companies.</li>
     </ul>
 
-    <h2>3. थर्ड-पार्टी सेवाएं (Third-Party Services)</h2>
-    <p>हमारा ऐप विश्वसनीय थर्ड-पार्टी सेवाओं का उपयोग करता है जो आपकी पहचान करने के लिए जानकारी एकत्र कर सकती हैं:</p>
+    <h2>3. Third-Party Services</h2>
+    <p>Our App uses trusted third-party services that may collect information used to identify you:</p>
     <ul>
-        <li><strong>Google Play Services:</strong> ऐप वितरण और बुनियादी सुरक्षा के लिए।</li>
-        <li><strong>Firebase Realtime Database & Analytics:</strong> क्लाउड सर्वर पर आपकी प्रोफ़ाइल और सीखने के डेटा को सुरक्षित रूप से स्टोर करने और ऐप के क्रैश रिपोर्ट को ट्रैक करने के लिए उपयोग किया जाता है।</li>
-        <li><strong>Google AdMob:</strong> हम ऐप में बैनर (Banner) और फुल-स्क्रीन (Interstitial) विज्ञापन दिखाने के लिए AdMob का उपयोग करते हैं। AdMob आपकी रुचियों के आधार पर व्यक्तिगत विज्ञापन दिखाने के लिए आपके डिवाइस की Advertising ID और कुकीज़ (Cookies) का उपयोग कर सकता है।</li>
+        <li><strong>Google Play Services:</strong> For app distribution and basic security.</li>
+        <li><strong>Firebase Realtime Database & Analytics:</strong> Used to securely store your profile and learning data on cloud servers and track app performance.</li>
+        <li><strong>Google AdMob:</strong> We use AdMob to display banner and interstitial advertisements in the App. AdMob may use your device's Advertising ID and cookies to serve personalized ads based on your interests.</li>
     </ul>
 
-    <h2>4. नियम और शर्तें (Terms and Conditions)</h2>
+    <h2>4. Terms and Conditions (User Agreement)</h2>
     <ul>
-        <li><strong>अकाउंट की सुरक्षा:</strong> पंजीकरण (Registration) के दौरान सटीक जानकारी प्रदान करने के लिए आप स्वयं जिम्मेदार हैं।</li>
-        <li><strong>ऐप का उपयोग:</strong> यह ऐप शैक्षिक उद्देश्यों के लिए बनाया गया है। ऐप के कोड या प्रीमियम सुविधाओं को हैक करने, बदलने या दुरुपयोग करने के किसी भी प्रयास के परिणामस्वरूप आपका अकाउंट तुरंत बंद (Terminate) कर दिया जाएगा।</li>
-        <li><strong>मुफ्त और प्रीमियम एक्सेस:</strong> ऐप ट्रायल अवधि के दौरान कुछ सुविधाएं मुफ्त में दे सकता है। हम किसी भी समय मूल्य निर्धारण, सदस्यता मॉडल, या मुफ्त एक्सेस की अवधि को संशोधित करने का अधिकार सुरक्षित रखते हैं।</li>
-        <li><strong>विज्ञापन (Advertisements):</strong> चूँकि यह ऐप मुफ्त में प्रदान किया जा रहा है, इसलिए आप ऐप के भीतर दिखाए जाने वाले तृतीय-पक्ष विज्ञापनों (Google Ads) को देखने के लिए सहमत हैं।</li>
+        <li><strong>Account Security:</strong> You are responsible for providing accurate information during registration.</li>
+        <li><strong>App Usage:</strong> This App is designed for educational purposes. Any attempt to hack, modify, or misuse the App's code or features will result in immediate account termination.</li>
+        <li><strong>Free and Premium Access:</strong> The App may offer certain features for free during a trial period. We reserve the right to modify the pricing, subscription models, or free access duration at any time.</li>
+        <li><strong>Advertisements:</strong> Because the App is provided for free, you agree to view third-party advertisements (Google Ads) served within the App.</li>
     </ul>
 
-    <h2>5. डेटा सुरक्षा (Data Security)</h2>
-    <p>हम अपनी व्यक्तिगत जानकारी हमें प्रदान करने में आपके विश्वास को महत्व देते हैं। हम इसे सुरक्षित रखने के लिए सुरक्षित Google Firebase डेटाबेस सहित व्यावसायिक रूप से स्वीकार्य साधनों का उपयोग करते हैं। हालांकि, याद रखें कि इंटरनेट या इलेक्ट्रॉनिक स्टोरेज पर ट्रांसमिशन का कोई भी तरीका 100% सुरक्षित और विश्वसनीय नहीं है।</p>
+    <h2>5. Data Security</h2>
+    <p>We value your trust in providing us with your Personal Information. We use commercially acceptable means, including secure Google Firebase databases, to protect it. However, remember that no method of transmission over the internet or electronic storage is 100% secure and reliable.</p>
 
-    <h2>6. हमसे संपर्क करें</h2>
-    <p>यदि हमारी गोपनीयता नीति और नियम व शर्तों के बारे में आपके कोई प्रश्न या सुझाव हैं, तो बेझिझक हमसे संपर्क करें:</p>
+    <h2>6. Contact Us</h2>
+    <p>If you have any questions or suggestions about our Privacy Policy and Terms & Conditions, do not hesitate to contact us at:</p>
     
     <div class="contact-info">
-        <!-- ध्यान दें: यहाँ अपना असली सपोर्ट ईमेल एड्रेस डालें -->
+        <!-- ध्यान दें: यहाँ अपना असली ईमेल एड्रेस डालें -->
         <p>Email: support@meaningmaster.com</p>
     </div>
 </div>
